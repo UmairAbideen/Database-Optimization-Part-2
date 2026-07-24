@@ -1,4 +1,4 @@
-# ⚡ Laravel 10 Database Optimization (Part 2)
+# ⚡ Laravel Database Optimization (Part 2)
 
 This project demonstrates techniques for optimizing **large dataset operations** in **Laravel 10**. Instead of loading or modifying thousands of records at once, Laravel provides efficient methods such as **Chunking**, **Cursor Pagination**, **Bulk Inserts**, and **Bulk Updates** to improve application performance and reduce memory usage.
 
