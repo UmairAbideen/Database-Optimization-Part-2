@@ -1,4 +1,4 @@
-# ⚡ Laravel Database Optimization (Part 2)
+# ⚡ Database Optimization (Part 2)
 
 ### Large Dataset Operations
 
